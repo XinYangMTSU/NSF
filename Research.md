@@ -87,9 +87,9 @@ Reference Paper:
 
 1. `Kermanshahi, Bahman. "Recurrent neural network for forecasting next 10 years loads of nine Japanese utilities." Neurocomputing 23.1-3 (1998): 125-133.`
    
-   In this paper, a recurrent neural network (RNN) is applied for long-term load forecasting. RNN is is designed to forecast
+   `In this paper, a recurrent neural network (RNN) is applied for long-term load forecasting. RNN is is designed to forecast
    the loads of 1 yr ahead. The proposed network is trained with the past 20 years (1975–1994) of actual data and are tested
-   for target years 1995–1997, 2000, and 2005.
+   for target years 1995–1997, 2000, and 2005.`
 
 
 RNNs have shown great success in many NLP tasks. The most commonly used type of RNNs are LSTMs
