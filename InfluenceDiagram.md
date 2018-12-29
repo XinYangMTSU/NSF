@@ -13,7 +13,7 @@
 * Require initial knowledge of many probabilities
 * Can become computationally intractable
 
-## ![#ff99cc](https://placehold.it/15/ff00ff/000000?text=+) `2. Neural Networks`
+## ![#66ff00](https://placehold.it/15/ff00ff/000000?text=+) `2. Neural Networks`
 
 ### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `2.1 Recurrent neural network (RNN)`
 
@@ -35,10 +35,9 @@ Source: Nature
 </p>
 
 RNNs are called `recurrent` because they perform the same task for every element of a sequence, with the output being depended
-on the previous computations. 
+on the previous computations. RNNs have shown great success in many NLP tasks. The most commonly used type of RNNs are LSTMs
 
 ### ![#cc99ff](https://placehold.it/15/cc99ff/000000?text=+) `2.2. Long short-term memory (LSTMs)`
-
 
 
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) Pros
@@ -55,7 +54,6 @@ variables.
 * Neural networks depend a lot on training data. This leads to the problem of over-fitting and generalization. The mode relies
 more on the training data and may be tuned to the data.
 
-RNNs have shown great success in many NLP tasks. The most commonly used type of RNNs are LSTMs
 
 
 
