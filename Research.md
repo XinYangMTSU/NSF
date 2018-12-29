@@ -29,9 +29,9 @@ Uncertainty in artificial intelligence. Pages 234-241` (I have this paper PDF, I
 * Require initial knowledge of many probabilities
 * Can become computationally intractable
 
-## ![#66ff00](https://placehold.it/15/66ff00/000000?text=+) `3. Neural Networks`
+## ![#66ff00](https://placehold.it/15/66ff00/000000?text=+) `4. Neural Networks`
 
-### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `3.1 Recurrent neural network (RNN)`
+### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `4.1 Recurrent neural network (RNN)`
 
 A recurrent neural network (RNN) is a class of artificial neural network where connections between nodes form a `directed
 graph` along a sequence. This allows it to exhibit temporal dynamic behavior for a `time sequence`.
@@ -59,7 +59,7 @@ gradient of the loss function decays exponentially with time (called the `vanish
 
 RNNs have shown great success in many NLP tasks. The most commonly used type of RNNs are LSTMs
 
-### ![#cc99ff](https://placehold.it/15/cc99ff/000000?text=+) `3.2. Long short-term memory (LSTMs)`
+### ![#cc99ff](https://placehold.it/15/cc99ff/000000?text=+) `4.2. Long short-term memory (LSTMs)`
 
 `Long Short Term Memory networks` – usually just called “LSTMs” – are a special kind of RNN, capable of learning long-term
 dependencies. LSTM networks are a type of RNN that uses special units in addition to standard units. LSTM units include a
