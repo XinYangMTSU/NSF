@@ -50,6 +50,10 @@ variables.
 * Neural networks depend a lot on training data. This leads to the problem of over-fitting and generalization. The mode relies
 more on the training data and may be tuned to the data.
 
+RNNs have shown great success in many NLP tasks. The most commonly used type of RNNs are LSTMs
+
+## ![#cc99ff](https://placehold.it/15/cc99ff/000000?text=+) `3. Long short-term memory (LSTMs)`
+
 
 
 
