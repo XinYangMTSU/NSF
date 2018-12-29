@@ -13,8 +13,9 @@
 * Require initial knowledge of many probabilities
 * Can become computationally intractable
 
+## ![#ff99cc](https://placehold.it/15/ff00ff/000000?text=+) `2. Neural Networks`
 
-## ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `2. Recurrent neural network (RNN)`
+### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `2.1 Recurrent neural network (RNN)`
 
 A recurrent neural network (RNN) is a class of artificial neural network where connections between nodes form a `directed
 graph` along a sequence. This allows it to exhibit temporal dynamic behavior for a `time sequence`.
@@ -36,6 +37,10 @@ Source: Nature
 RNNs are called `recurrent` because they perform the same task for every element of a sequence, with the output being depended
 on the previous computations. 
 
+### ![#cc99ff](https://placehold.it/15/cc99ff/000000?text=+) `2.2. Long short-term memory (LSTMs)`
+
+
+
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) Pros
 * Neural networks are flexible and can be used for both regression and classification problems. Any data which can be made
 numeric can be used in the model, as neural network is a mathematical model with approximation functions
@@ -52,7 +57,7 @@ more on the training data and may be tuned to the data.
 
 RNNs have shown great success in many NLP tasks. The most commonly used type of RNNs are LSTMs
 
-## ![#cc99ff](https://placehold.it/15/cc99ff/000000?text=+) `3. Long short-term memory (LSTMs)`
+
 
 
 
