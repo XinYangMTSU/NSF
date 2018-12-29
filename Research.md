@@ -46,7 +46,8 @@ influence diagrams." Canadian journal of fisheries and aquatic sciences 56.4 (19
 
    `In this paper, the modeling consisted of three separate steps: (i) modeling of selectivity, (ii) estimation of
    uncertainties  by Monte Carlo simulations, and (iii) decision analysis by Bayesian influence diagrams, focusing on the
-   structural uncertainties and model selection.`
+   structural uncertainties and model selection. They use their approach to identify robust management measures that reduce
+   the risk of overfishing and the sensitivity to management information.'
 
 ## ![#66ff00](https://placehold.it/15/66ff00/000000?text=+) `4. Neural Networks`
 
