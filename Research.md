@@ -1,25 +1,29 @@
 ## ![#ff5566](https://placehold.it/15/ff5566/000000?text=+) `1. Unconstrained influence diagrams`
 
-In this paper they extend the language of IDs with extra features and call the graphs unconstrained influence
-diagrams (UIDs).
-
-They extend the language of influence diagrams to cope with decision scenarios where the order of decisions and observations
-is not determined. As the ordering of decisions is dependent on the evidence, a step-strategy of such a scenario is a sequence
-of dependent choices of the next action. A strategy is a step-strategy together with selection functions for decision actions.
-The structure of a step-strategy can be represented as a DAG with nodes labeled with action variables. They introduce the
-concept of GS-DAG: a DAG incorprating an optimal step-strategy for any instantiation.
+Reference Paper:
 
 `Jensen, Finn V., and Marta Vomlelová. "Unconstrained influence diagrams." Proceedings of the Eighteenth conference on Uncertainty in artificial intelligence. Morgan Kaufmann Publishers Inc., 2002.` (I have this paper PDF, I can send to you if
 you need it.)
 
+   In this paper they extend the language of IDs with extra features and call the graphs unconstrained influence
+   diagrams (UIDs).
+
+   They extend the language of influence diagrams to cope with decision scenarios where the order of decisions and
+   observations is not determined. As the ordering of decisions is dependent on the evidence, a step-strategy of such a
+   scenario is a sequence of dependent choices of the next action. A strategy is a step-strategy together with selection
+   functions for decision actions. The structure of a step-strategy can be represented as a DAG with nodes labeled with action
+   variables. They introduce the concept of GS-DAG: a DAG incorprating an optimal step-strategy for any instantiation.
+
 ## ![#0066ff](https://placehold.it/15/0066ff/000000?text=+) `2. Multi-agent influence diagrams`
 
-In this paper, they propose a graphical representation for noncooperative games: Multi-agent influence diagrams (MAIDs).
-The basic elements in the MAID representation are variables, allowing an explicit representation of dependence, or relevance,
-relationships among variables. They define a decision variable D' as strategically relevant to D if, to optimize the decision
-rule at D, the decision maker needs to consider the decision rule at D'.
+Reference Paper:
 
 `Koller, Daphne, and Brian Milch. "Multi-agent influence diagrams for representing and solving games." Games and economic behavior 45.1 (2003): 181-221.` (I have this paper PDF, I can send to you if you need it.)
+
+   In this paper, they propose a graphical representation for noncooperative games: Multi-agent influence diagrams (MAIDs).
+   The basic elements in the MAID representation are variables, allowing an explicit representation of dependence, or
+   relevance, relationships among variables. They define a decision variable D' as strategically relevant to D if, to optimize
+   the decision rule at D, the decision maker needs to consider the decision rule at D'.
 
 ## ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `3. Bayesian Belief Networks (BBN)`
 
