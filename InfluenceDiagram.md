@@ -5,7 +5,7 @@
 * `Nodes` are the features
 * `Edges/Links` represent relations between features.
 
-### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) Pros
+### ![#6600ff](https://placehold.it/15/ff00ff/000000?text=+) Pros
 * Can calculate explicit probabilities for hypotheses 
 * Prior knowledge can be (incrementally) combined with newer knowledge to better approximate perfect knowledge
 
