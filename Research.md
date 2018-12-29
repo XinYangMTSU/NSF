@@ -3,8 +3,8 @@
 In this paper they extend the language of IDs with extra features and call the graphs unconstrained influence
 diagrams (UIDs).
 
-They extend the language of influence diagrams to cope with decision scenarios where the order of decisions and observationsis
-not determined. As the ordering of decisions is dependent on the evidence, a step-strategy of such a scenario is a sequence
+They extend the language of influence diagrams to cope with decision scenarios where the order of decisions and observations
+is not determined. As the ordering of decisions is dependent on the evidence, a step-strategy of such a scenario is a sequence
 of dependent choices of the next action. A strategy is a step-strategy together with selection functions for decision actions.
 The structure of a step-strategy can be represented as a DAG with nodes labeled with action variables. They introduce the
 concept of GS-DAG: a DAG incurporating an optimal step-strategy for any instantiation.
