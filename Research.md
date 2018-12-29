@@ -12,7 +12,10 @@ concept of GS-DAG: a DAG incorprating an optimal step-strategy for any instantia
 `Unconstrained influence diagrams, Finn V. Jensen, Marta Vomlelová. UAI'02 Proceedings of the Eighteenth conference on
 Uncertainty in artificial intelligence. Pages 234-241` (I have this paper PDF, I can send to you if you need it.)
 
-## ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `2. Bayesian Belief Networks (BBN)`
+## ![#0066ff](https://placehold.it/15/0066ff/000000?text=+) `2. Multi-agent influence diagrams`
+
+
+## ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `3. Bayesian Belief Networks (BBN)`
 
 * BBN is a `probabilistic graphical model` (PGM)
 * `Nodes` are the features
