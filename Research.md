@@ -41,7 +41,13 @@ Reference Paper:
 
 Reference Paper:
 
-1. `Kuikka, S., et al. "Modeling environmentally driven uncertainties in Baltic cod (Gadus morhua) management by Bayesian
+1. `McCann, Robert K., Bruce G. Marcot, and Rick Ellis. "Bayesian belief networks: applications in ecology and natural resource management." Canadian Journal of Forest Research 36.12 (2006): 3053-3062.`
+
+   `In this paper, the authors suggest that BBNs can be used effectively to represent uncertainty in understanding and
+   variability in ecosystem response, and the influence of uncertainty and variability on costs and benefits assigned to model
+   outcomes or decision associated with natural resource management.`
+
+2. `Kuikka, S., et al. "Modeling environmentally driven uncertainties in Baltic cod (Gadus morhua) management by Bayesian
 influence diagrams." Canadian journal of fisheries and aquatic sciences 56.4 (1999): 629-641.`
 
    `In this paper, the modeling consisted of three separate steps: (i) modeling of selectivity, (ii) estimation of
