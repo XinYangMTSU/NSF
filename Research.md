@@ -102,6 +102,17 @@ dependencies. LSTM networks are a type of RNN that uses special units in additio
 information enters the memory, when it's output, and when it's forgotten. This architecture lets them learn longer-term
 dependencies.
 
+Reference Paper:
+
+1. `Sak, Haşim, Andrew Senior, and Françoise Beaufays. "Long short-term memory recurrent neural network architectures for large scale acoustic modeling." Fifteenth annual conference of the international speech communication association. 2014.`
+
+   `In this paper, they explore LSTM RNN architectures for large scale acoustic modeling in speech recognition. They introduce
+   the first distributed training of LSTM RNNs using asynchronous stochastic gradient descent optimization on a large cluster
+   of machines. They show that a two-layer deep LSTM RNN where each LSTM layer has a linear recurrent projection layer can
+   exceed state-of-the-art speech recognition performance. This architecture makes more effective use of model parameters than
+   the others considered, converges quickly, and outperforms a deep feed forward neural network having an order of magnitude
+   more parameters.`
+
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) Pros
 * Neural networks are flexible and can be used for both regression and classification problems. Any data which can be made
 numeric can be used in the model, as neural network is a mathematical model with approximation functions
