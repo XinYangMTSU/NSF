@@ -9,11 +9,12 @@ of dependent choices of the next action. A strategy is a step-strategy together 
 The structure of a step-strategy can be represented as a DAG with nodes labeled with action variables. They introduce the
 concept of GS-DAG: a DAG incorprating an optimal step-strategy for any instantiation.
 
-`Unconstrained influence diagrams, Finn V. Jensen, Marta Vomlelová. UAI'02 Proceedings of the Eighteenth conference on
-Uncertainty in artificial intelligence. Pages 234-241` (I have this paper PDF, I can send to you if you need it.)
+`Jensen, Finn V., and Marta Vomlelová. "Unconstrained influence diagrams." Proceedings of the Eighteenth conference on Uncertainty in artificial intelligence. Morgan Kaufmann Publishers Inc., 2002.` (I have this paper PDF, I can send to you if
+you need it.)
 
 ## ![#0066ff](https://placehold.it/15/0066ff/000000?text=+) `2. Multi-agent influence diagrams`
 
+`Koller, Daphne, and Brian Milch. "Multi-agent influence diagrams for representing and solving games." Games and economic behavior 45.1 (2003): 181-221.` (I have this paper PDF, I can send to you if you need it.)
 
 ## ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `3. Bayesian Belief Networks (BBN)`
 
