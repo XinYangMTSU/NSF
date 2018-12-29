@@ -7,7 +7,7 @@ They extend the language of influence diagrams to cope with decision scenarios w
 is not determined. As the ordering of decisions is dependent on the evidence, a step-strategy of such a scenario is a sequence
 of dependent choices of the next action. A strategy is a step-strategy together with selection functions for decision actions.
 The structure of a step-strategy can be represented as a DAG with nodes labeled with action variables. They introduce the
-concept of GS-DAG: a DAG incurporating an optimal step-strategy for any instantiation.
+concept of GS-DAG: a DAG incorprating an optimal step-strategy for any instantiation.
 
 `Unconstrained influence diagrams, Finn V. Jensen, Marta Vomlelová. UAI'02 Proceedings of the Eighteenth conference on
 Uncertainty in artificial intelligence. Pages 234-241` (I have this paper PDF, I can send to you if you need it.)
