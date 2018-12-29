@@ -14,9 +14,8 @@
 
 | Bayesian Approach        | Pros          | Cons  |
 | ------------- |:-------------:| -----:|
-|       | right-aligned | $1600 |
-|      | centered      |   $12 |
-|      | are neat      |    $1 |
+|    | Can calculate explicit probabilities for hypotheses | Require initial knowledge of many probabilities |
+|    | Prior knowledge can be incrementally) combined with newer knowledge to better approximate perfect knowledge | Can become computationally intractable |
 
 
 ## ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `2. Domain Name System`
