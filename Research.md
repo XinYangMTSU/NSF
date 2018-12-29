@@ -14,6 +14,11 @@ you need it.)
 
 ## ![#0066ff](https://placehold.it/15/0066ff/000000?text=+) `2. Multi-agent influence diagrams`
 
+In this paper, they propose a graphical representation for noncooperative games: Multi-agent influence diagrams (MAIDs).
+The basic elements in the MAID representation are variables, allowing an explicit representation of dependence, or relevance,
+relationships among variables. We define a decision variable D' as strategically relevant to D if, to optimize the decision
+rule at D, the decision maker needs to consider the decision rule at D'.
+
 `Koller, Daphne, and Brian Milch. "Multi-agent influence diagrams for representing and solving games." Games and economic behavior 45.1 (2003): 181-221.` (I have this paper PDF, I can send to you if you need it.)
 
 ## ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `3. Bayesian Belief Networks (BBN)`
