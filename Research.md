@@ -35,6 +35,15 @@ rule at D, the decision maker needs to consider the decision rule at D'.
 * Require initial knowledge of many probabilities
 * Can become computationally intractable
 
+Reference Paper:
+
+1. `Kuikka, S., et al. "Modeling environmentally driven uncertainties in Baltic cod (Gadus morhua) management by Bayesian
+influence diagrams." Canadian journal of fisheries and aquatic sciences 56.4 (1999): 629-641.`
+
+   `In this paper, the modeling consisted of three separate steps: (i) modeling of selectivity, (ii) estimation of
+   uncertainties  by Monte Carlo simulations, and (iii) decision analysis by Bayesian influence diagrams, focusing on the
+   structural uncertainties and model selection.`
+
 ## ![#66ff00](https://placehold.it/15/66ff00/000000?text=+) `4. Neural Networks`
 
 ### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `4.1 Recurrent neural network (RNN)`
