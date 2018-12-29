@@ -33,6 +33,23 @@ The idea behind RNNs is to make use of sequential information.
 Source: Nature
 </p>
 
-RNNs are called recurrent because they perform the same task for every element of a sequence, with the output being depended
+RNNs are called `recurrent` because they perform the same task for every element of a sequence, with the output being depended
 on the previous computations. 
+
+### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) Pros
+* Neural networks are flexible and can be used for both regression and classification problems. Any data which can be made
+numeric can be used in the model, as neural network is a mathematical model with approximation functions
+* Neural networks are good to model with nonlinear data with large number of inputs
+* Once trained, the predictions are pretty fast.
+* Neural networks work best with big data.
+
+### ![#ccff99](https://placehold.it/15/ccff99/000000?text=+) Cons
+* Neural networks are black boxes, meaning we cannot know how much each independent variable is influencing the dependent
+variables.
+* It is computationally very expensive and time consuming to train with traditional CPUs.
+* Neural networks depend a lot on training data. This leads to the problem of over-fitting and generalization. The mode relies
+more on the training data and may be tuned to the data.
+
+
+
 
