@@ -1,5 +1,8 @@
 ## ![#ff5566](https://placehold.it/15/ff5566/000000?text=+) `1. Unconstrained influence diagrams`
 
+In this paper they extend the language of IDs with extra features and call the graphs unconstrained influence
+diagrams (UIDs).
+
 `Unconstrained influence diagrams, Finn V. Jensen, Marta Vomlelová. UAI'02 Proceedings of the Eighteenth conference on
 Uncertainty in artificial intelligence. Pages 234-241` (I have this paper PDF, I can send to you if you need it.)
 
