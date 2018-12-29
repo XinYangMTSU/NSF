@@ -1,7 +1,7 @@
 ## ![#ff5566](https://placehold.it/15/ff5566/000000?text=+) `1. Unconstrained influence diagrams`
 
 `Unconstrained influence diagrams, Finn V. Jensen, Marta Vomlelová. UAI'02 Proceedings of the Eighteenth conference on
-Uncertainty in artificial intelligence Pages 234-241` 
+Uncertainty in artificial intelligence. Pages 234-241` 
 
 ## ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `2. Bayesian Belief Networks (BBN)`
 
