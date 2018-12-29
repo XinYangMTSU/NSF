@@ -35,10 +35,21 @@ Source: Nature
 </p>
 
 RNNs are called `recurrent` because they perform the same task for every element of a sequence, with the output being depended
-on the previous computations. RNNs have shown great success in many NLP tasks. The most commonly used type of RNNs are LSTMs
+on the previous computations. 
+
+All RNNs have feedback loops in the recurrent layer. This lets them maintain information in 'memory' over time. But, it can be
+difficult to train standard RNNs to solve problems that require learning long-term temporal dependencies. This is because the
+gradient of the loss function decays exponentially with time (called the `vanishing/exploding gradient problem`).
+
+RNNs have shown great success in many NLP tasks. The most commonly used type of RNNs are LSTMs
 
 ### ![#cc99ff](https://placehold.it/15/cc99ff/000000?text=+) `2.2. Long short-term memory (LSTMs)`
 
+`Long Short Term Memory networks` – usually just called “LSTMs” – are a special kind of RNN, capable of learning long-term
+dependencies. LSTM networks are a type of RNN that uses special units in addition to standard units. LSTM units include a
+'memory cell' that can maintain information in memory for long periods of time. A set of gates is used to control when
+information enters the memory, when it's output, and when it's forgotten. This architecture lets them learn longer-term
+dependencies.
 
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) Pros
 * Neural networks are flexible and can be used for both regression and classification problems. Any data which can be made
