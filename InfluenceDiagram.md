@@ -13,7 +13,7 @@
 * Require initial knowledge of many probabilities
 * Can become computationally intractable
 
-## ![#66ff00](https://placehold.it/15/ff00ff/000000?text=+) `2. Neural Networks`
+## ![#66ff00](https://placehold.it/15/66ff00/000000?text=+) `2. Neural Networks`
 
 ### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `2.1 Recurrent neural network (RNN)`
 
