@@ -5,14 +5,7 @@
 * `Nodes` are the features
 * `Edges/Links` represent relations between features.
 
-
-| Bayesian Approach: Pros and Cons      |
-| ------------- |:---------------------:|
-| Pros          | Can calculate explicit probabilities for hypotheses|
-| col 2 is      | centered |
-
-
-| Bayesian Approach        | Pros          | Cons  |
+| BBN     | Pros          | Cons  |
 | ------------- |:-------------:| -----:|
 |    | Can calculate explicit probabilities for hypotheses | Require initial knowledge of many probabilities |
 |    | Prior knowledge can be incrementally) combined with newer knowledge to better approximate perfect knowledge | Can become computationally intractable |
